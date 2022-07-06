@@ -24,3 +24,6 @@ This repository aims to build a Facebook Prophet Machine learning model that can
 
 ## Actual VS Predicted Stocks
 ![Actual and predicted plot](https://user-images.githubusercontent.com/65674945/177572616-3fe5bc47-85e5-4ee5-b548-be17573dd300.PNG)
+
+## Source:
+https://www.coursera.org/projects/tesla-stock-price-prediction-facebook-prophet
